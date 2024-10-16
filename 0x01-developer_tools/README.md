@@ -132,8 +132,3 @@ Read or watch:
 
 ### [34. Expiration date](./34-ssl_expiration.png)
 * Go to https://dev-tools.hbtn.info/ when does the SSL certificate expire
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
