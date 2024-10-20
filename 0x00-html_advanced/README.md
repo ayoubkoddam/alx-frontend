@@ -157,8 +157,3 @@ Read or watch:
 
 ### [40. Add a iframe example in the styleguide](./styleguide.html)
 * Add an iframe example
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
